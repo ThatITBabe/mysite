@@ -41,7 +41,8 @@ p{
 .top-container{
     background-color: #e8f9fd;
     position: relative;
-    padding-top: 100px;
+    padding: 100px o;
+   
 }
 .middle-container{
     margin:80px 0;
